@@ -94,7 +94,6 @@ VALUES
 ('Consola de Videojuegos', 500000, 'Electrónica', 'Blanco', 100, 2),
 ('Monitor', 200000, 'Computación', 'Blanco', 80, 2),
 ('Aspiradora', 150000, 'Hogar', 'Azul', 90, 3);
-TRUNCATE TABLE producto;
 
 -- Consultas
 -- Cuál es la categoría de productos que más se repite.
