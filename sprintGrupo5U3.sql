@@ -7,12 +7,12 @@ Rodrigo Rojas – Jorge Montoya – Joeshep López – Diego Rivera - Felipe Ari
 -- Creacion de base de datos.
 CREATE DATABASE sprintgrupo5;
 
-USE sprintgrupo5;
-
 -- Creacion usuario con todos los privilegios para trabajar con la base de datos recién creada.
 CREATE USER 'sprintgrupo5'@'localhost' IDENTIFIED BY 'admin123';
 GRANT CREATE, DROP, ALTER, INSERT, UPDATE, DELETE ON sprintgrupo5.* TO 'sprintgrupo5'@'localhost';
 FLUSH PRIVILEGES;
+
+USE sprintgrupo5;
 
 -- Creacion de tablas.
 /*
