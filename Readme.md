@@ -1,4 +1,4 @@
-# DESARROLLO Spring Grupo 5 Unidad 3
+# DESARROLLO Sprint Grupo 5 Unidad 3
 ## Integrantes: Jorge Montoya - Rodrigo Rojas - Nicolás Gajardo - Felipe Arias - Joeshep Lopez- Diego Rivera
 
 ## SPRINT DE ENTREGA:
